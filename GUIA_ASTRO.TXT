@@ -1,0 +1,14 @@
+En public estan los archivos estaticos
+en Src los de codigo fuentes
+    En pages tenemos las rutas
+    Layout lo que envuelve a las paginas
+    Components estan los componentes
+
+En cada archivo astro se puede poner JS pero debe estar definido entre ---  aca el JS      ---
+
+
+COMPONENTS 
+    Se agregan los header, 
+
+
+Para desxargar fuentes me fui a fontsource, busque una que me gustaba y la installa npm install @fonsource...
